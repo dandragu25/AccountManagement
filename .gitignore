@@ -1,0 +1,6 @@
+.idea/
+account-management-dal/target/
+account-management-integration-tests/target/
+account-management-service/target/
+account-management-web/target/
+*.iml
